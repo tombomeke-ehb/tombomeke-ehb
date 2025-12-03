@@ -65,8 +65,8 @@ A .NET **CLI tool** that auto-generates README/ROADMAP files by scanning your co
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tombomeke-ehb&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tombomeke-ehb&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=tombomeke-ehb&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=tombomeke-ehb&layout=compact&theme=transparent)
 
 ---
 
