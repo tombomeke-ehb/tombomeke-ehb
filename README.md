@@ -46,7 +46,7 @@ AI-assisted contract analysis platform.
 - Dashboard with contract overview and deadlines  
 - **Stack:** Vue 3, Node.js, Google Cloud Document AI
 
-### ⚔️ [RPG Manager](https://github.com/tombomeke-ehb/RPG-Manager) (.NET)
+### ⚔️ [RPG Manager](https://github.com/tombomeke-ehb/RPGManager) (.NET)
 A modular **RPG framework** in C#.
 
 - Characters, weapons, worlds, inventory  
