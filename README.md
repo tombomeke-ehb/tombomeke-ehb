@@ -7,7 +7,7 @@ I enjoy building real, usable projects: from **web apps** and **CLI tools** to *
 
 ---
 
-## 🧰 Tech Overview
+##  Tech Overview
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -38,7 +38,7 @@ I enjoy building real, usable projects: from **web apps** and **CLI tools** to *
 
 ## Featured Projects
 
-### 📝 [Contract Companion](https://github.com/tombomeke-ehb/Contract-Companion)
+###  [Contract Companion](https://github.com/tombomeke-ehb/Contract-Companion)
 AI-assisted contract analysis platform.
 
 - Upload contracts (PDF/Word) → OCR → AI summary  
@@ -46,7 +46,7 @@ AI-assisted contract analysis platform.
 - Dashboard with contract overview and deadlines  
 - **Stack:** Vue 3, Node.js, Google Cloud Document AI
 
-### ⚔️ [RPG Manager](https://github.com/tombomeke-ehb/RPGManager) (.NET)
+###  [RPG Manager](https://github.com/tombomeke-ehb/RPGManager) (.NET)
 A modular **RPG framework** in C#.
 
 - Characters, weapons, worlds, inventory  
@@ -63,23 +63,23 @@ A .NET **CLI tool** that auto-generates README/ROADMAP files by scanning your co
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tombomeke-ehb&theme=github_dark)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tombomeke-ehb&theme=github_dark)
 
 ---
 
-## 📫 Contact
+##  Contact
 
-- ✉️ **Personal:** `tom1dekoning@gmail.com`  
-- ✉️ **School:** `tom.dekoning@student.ehb.be`  
-- 🔗 **LinkedIn:** *[LinkedIn](https://www.linkedin.com/in/tom-dekoning-567523352/)*  
-- 🌐 **Portfolio / Website:** *[tombomeke.com](https://tombomeke.com)*
+-  **Personal:** `tom1dekoning@gmail.com`  
+-  **School:** `tom.dekoning@student.ehb.be`  
+-  **LinkedIn:** *[LinkedIn](https://www.linkedin.com/in/tom-dekoning-567523352/)*  
+-  **Portfolio / Website:** *[tombomeke.com](https://tombomeke.com)*
 
 ---
 
-## 🤝 What I’m Looking For
+##  What I’m Looking For
 
 - Opportunities to work on **real-world projects**  
 - Collaborations on **open-source tools**  
@@ -89,7 +89,7 @@ A .NET **CLI tool** that auto-generates README/ROADMAP files by scanning your co
 
 ---
 
-## 🧑‍💼 For Recruiters
+##  For Recruiters
 
 - Strong understanding of **object-oriented programming**, **clean code principles** and **software architecture**  
 - Practical experience with **C#/.NET**, **JavaScript/TypeScript**, **Vue**, **Node.js**, and **REST APIs**  
